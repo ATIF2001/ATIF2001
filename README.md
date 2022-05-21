@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/atif50020359" target="blank"><img src="https://img.shields.io/twitter/follow/atif50020359?logo=twitter&style=for-the-badge" alt="atif50020359" /></a> </p>
 
+- 🌱 I’m currently learning **react**
+
+- 💬 Ask me about **JAVA, and front end technologies.**
+
+- ⚡ Fun fact **I'm a coffee lover**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atif50020359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atif50020359" height="30" width="40" /></a>
@@ -24,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif2001&show_icons=true&locale=en" alt="atif2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif2001&" alt="atif2001" /></p>
+
