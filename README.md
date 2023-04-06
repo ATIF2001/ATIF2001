@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/atif50020359" target="blank"><img src="https://img.shields.io/twitter/follow/atif50020359?logo=twitter&style=for-the-badge" alt="atif50020359" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **JAVA, and front end technologies.**
+- 💬 Ask me about **Python, Javascript, React and Node js.**
 
 - ⚡ Fun fact **I'm a coffee lover**
 
